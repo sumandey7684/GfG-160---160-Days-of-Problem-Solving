@@ -50,6 +50,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 24      | 24      | Overlapping Intervals                     | Java      | Medium     | Sorting        |
 | 25      | 25      | Insert Interval                           | Python    | Medium     | Sorting        |
 | 26      | 26      | Non-Overlapping Intervals                 | Java      | Medium     | Sorting        |
+| 27      | 27      | Merge without Extra Space                 | Java      | Hard       | Sorting        |
 
 ---
 
