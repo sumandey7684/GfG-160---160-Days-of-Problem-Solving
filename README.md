@@ -52,6 +52,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 26      | 26      | Non-Overlapping Intervals                 | Java      | Medium     | Sorting        |
 | 27      | 27      | Merge without Extra Space                 | Java      | Hard       | Sorting        |
 | 28      | 28      | Number of Occurence                       | Java      | Easy       | Searching      |
+| 29      | 29      | Sorted and Rotated Minimum                 | Java      | Easy       | Searching      |
 
 ---
 
