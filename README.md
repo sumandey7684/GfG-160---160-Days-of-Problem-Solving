@@ -54,6 +54,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 28      | 28      | Number of Occurence                       | Java      | Easy       | Searching      |
 | 29      | 29      | Sorted and Rotated Minimum                | Java      | Easy       | Searching      |
 | 30      | 30      | Search in Rotated Sorted Array            | Java      | Medium     | Searching      |
+| 31      | 31      | Peak Element                              | Java      | Basic     | Searching      |
 
 ---
 
