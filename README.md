@@ -57,6 +57,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 31      | 31      | Peak Element                              | Java      | Basic      | Searching      |
 | 32      | 32      | K-th Element of two Arrays                | Java      | Medium     | Searching      |
 | 33      | 33      | Aggressive Cow                            | Java      | Medium     | Searching      |
+| 34      | 34      | Allocate Minimum Pages                    | Java      | Medium     | Searching      |
 
 
 ---
