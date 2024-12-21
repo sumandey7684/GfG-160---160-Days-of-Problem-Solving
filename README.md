@@ -60,6 +60,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 34      | 34      | Allocate Minimum Pages                    | Java      | Medium     | Searching      |
 | 35      | 35      | Kth Missing Positive Number in a Sorted Array | Java      | Medium     | Searching      |
 | 36      | 36      | Spirally traversing a Matrix               | Java      | Medium     | Matrix      |
+| 37      | 37      | Rotate By 90 degree                         | Java        |       Medium     | Matrix      |
 
 
 
