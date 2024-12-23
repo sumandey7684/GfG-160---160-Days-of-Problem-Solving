@@ -58,11 +58,11 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 32      | 32      | K-th Element of two Arrays                | Java      | Medium     | Searching      |
 | 33      | 33      | Aggressive Cow                            | Java      | Medium     | Searching      |
 | 34      | 34      | Allocate Minimum Pages                    | Java      | Medium     | Searching      |
-| 35      | 35      | Kth Missing Positive Number in a Sorted Array | Java      | Medium     | Searching      |
-| 36      | 36      | Spirally traversing a Matrix               | Java      | Medium     | Matrix      |
-| 37      | 37      | Rotate By 90 degree                         | Java        |       Medium     | Matrix      |
-| 38      | 38      | Search in a Row-Column sorted matrix              | Java      | Medium     | Matrix      |
-
+| 35      | 35      | Kth Missing Positive Number in a Sorted Array | Java  | Medium     | Searching      |
+| 36      | 36      | Spirally traversing a Matrix              | Java      | Medium     | Matrix         |
+| 37      | 37      | Rotate By 90 degree                       | Java      | Medium     | Matrix         |
+| 38      | 38      | Search in a Row-Column Sorted Matrix      | Java      | Medium     | Matrix         |
+| 39      | 39      | Search in a Row-Wise Sorted Matrix        | Java      | Medium     | Matrix         |
 
 ---
 
