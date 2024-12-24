@@ -63,6 +63,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 37      | 37      | Rotate By 90 degree                       | Java      | Medium     | Matrix         |
 | 38      | 38      | Search in a Row-Column Sorted Matrix      | Java      | Medium     | Matrix         |
 | 39      | 39      | Search in a Row-Wise Sorted Matrix        | Java      | Medium     | Matrix         |
+| 40      | 40      | Search in a Sorted Matrix                 | Java      | Medium     | Matrix         |
 
 ---
 
