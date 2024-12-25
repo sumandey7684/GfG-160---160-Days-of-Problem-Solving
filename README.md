@@ -64,6 +64,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 38      | 38      | Search in a Row-Column Sorted Matrix      | Java      | Medium     | Matrix         |
 | 39      | 39      | Search in a Row-Wise Sorted Matrix        | Java      | Medium     | Matrix         |
 | 40      | 40      | Search in a Sorted Matrix                 | Java      | Medium     | Matrix         |
+| 41      | 41      | Set Matrix Zeroes                         | Python    | Medium     | Matrix         |
 
 ---
 
