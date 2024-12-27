@@ -65,6 +65,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 39      | 39      | Search in a Row-Wise Sorted Matrix        | Java      | Medium     | Matrix         |
 | 40      | 40      | Search in a Sorted Matrix                 | Java      | Medium     | Matrix         |
 | 41      | 41      | Set Matrix Zeroes                         | Python    | Medium     | Matrix         |
+| 42      | 42      | Two Sum - Pair with Given Sum             | Java      | Easy       | Hashing        |
+| 43      | 43      | Count pairs with given sum                | Java      | Easy       | Hashing        |
 
 ---
 
