@@ -67,6 +67,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 41      | 41      | Set Matrix Zeroes                         | Python    | Medium     | Matrix         |
 | 42      | 42      | Two Sum - Pair with Given Sum             | Java      | Easy       | Hashing        |
 | 43      | 43      | Count pairs with given sum                | Java      | Easy       | Hashing        |
+| 44      | 44      | Find All Triplets with Zero Sum           | Java      | Medium     | Hashing        |
 
 ---
 
