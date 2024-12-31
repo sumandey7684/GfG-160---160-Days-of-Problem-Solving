@@ -70,6 +70,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 44      | 44      | Find All Triplets with Zero Sum           | Java      | Medium     | Hashing        |
 | 45      | 45      | Intersection of Two arrays with Duplicat Elements       | Java     | Easy    | Hashing
 | 46      | 46      | Union of Arrays with Duplicates           | Java      | Easy       | Hashing        |
+| 47      | 47      | Longest Consecutive Subsequence           | Java      | Medium     | Hashing        |
+
 ---
 
 ## Topics Covered
