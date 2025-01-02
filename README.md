@@ -71,6 +71,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 45      | 45      | Intersection of Two arrays with Duplicat Elements       | Java     | Easy    | Hashing
 | 46      | 46      | Union of Arrays with Duplicates           | Java      | Easy       | Hashing        |
 | 47      | 47      | Longest Consecutive Subsequence           | Java      | Medium     | Hashing        |
+| 48      | 48      | Print Anagrams Together                   | C++       | Medium     | Hashing        |
+| 49      | 49      | Subarrays with Sum K                      | Java      | Medium     | Hashing        |
 
 ---
 
