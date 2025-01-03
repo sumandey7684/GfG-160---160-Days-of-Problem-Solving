@@ -73,6 +73,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 47      | 47      | Longest Consecutive Subsequence           | Java      | Medium     | Hashing        |
 | 48      | 48      | Print Anagrams Together                   | C++       | Medium     | Hashing        |
 | 49      | 49      | Subarrays with Sum K                      | Java      | Medium     | Hashing        |
+| 50      | 50      | Count Subarrays with Given XOR            | Java      | Medium     | Hashing        |
+
 
 ---
 
