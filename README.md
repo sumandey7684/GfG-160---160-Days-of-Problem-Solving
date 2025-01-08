@@ -74,10 +74,11 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 48      | 48      | Print Anagrams Together                   | C++       | Medium     | Hashing        |
 | 49      | 49      | Subarrays with Sum K                      | Java      | Medium     | Hashing        |
 | 50      | 50      | Count Subarrays with Given XOR            | Java      | Medium     | Hashing        |
-| 51      | 51      | Count all triplets with given sum in sorted array | Java      | Medium     | Two Pointer Technique |
+| 51      | 51      | Count all triplets with given sum in sorted array | Java      | Medium     | Two Pointer Technique 
 | 52      | 52      | Count Pairs whose sum is less than targe  | Java      | Easy       | Two Pointer Technique |
 | 53      | 53      | Sum Pair closest to target                | Java      | Easy       | Two Pointer Technique |
 | 54      | 54      | Pair with given sum in a sorted array     | Java      | Easy       | Two Pointer Technique |
+| 55      | 55      | Count the Number of Possible Triangle.    | Java      | Medium     | Two Pointer Technique |
 
 ---
 
