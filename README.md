@@ -81,6 +81,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 55      | 55      | Count the Number of Possible Triangle.    | Java      | Medium     | Two Pointer Technique |
 | 56      | 56      | Indexes of Subarray Sum                   | Java      | Medium     | Two Pointer Technique |
 | 57      | 57      | Count Distinct Elements in Every Window   | Java      | Easy       | Two Pointer Technique |
+| 58      | 58      | Longest Substring with Distinct Characters| Java      | Easy       | Two Pointer Technique |
 
 ---
 
