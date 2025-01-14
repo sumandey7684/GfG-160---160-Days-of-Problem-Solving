@@ -99,6 +99,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 - **Divide and Conquer**
 - **Hashing**
 - **Two Pointer Technique**
+- **Prefix Sum**
 - **Pattern Searching**
 - **Data Structures**
 - **Algorithms**
