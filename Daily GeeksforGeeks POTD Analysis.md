@@ -6,44 +6,43 @@ This repository tracks and analyzes my daily practice of GeeksforGeeks Problems 
 
 ## 📊 Summary Statistics
 
-### 🔍Difficulty Levels
+### 🔍 Difficulty Levels
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 19    | 33.33%     |
-| Medium     | 37    | 64.91%     |
-| Hard       | 2     | 3.51%      |
-| Basic      | 1     | 1.75%      |
+| Easy       | 37    | 37.9%      |
+| Medium     | 56    | 57.6%      |
+| Hard       | 5     | 4.5%       |
 
-![Difficulty Levels Pie Chart](path-to-difficulty-pie-chart.png)
+![Difficulty Level](./Difficulty%20Level.png)
 
 ---
 
-### 💻Languages Used
+### 💻 Languages Used
 | Language   | Count | Percentage |
 |------------|-------|------------|
-| Java       | 35    | 61.40%     |
-| C          | 6     | 10.53%     |
-| Python     | 7     | 12.28%     |
-| C++        | 5     | 8.77%      |
+| Java       | 75    | 75.8%      |
+| C          | 4     | 4.5%       |
+| Python     | 7     | 7.6%       |
+| C++        | 12    | 12.1%      |
 
-![Languages Used Pie Chart](path-to-languages-pie-chart.png)
+![Language](./Language.png)
 
 ---
 
-### 📚Topics
+### 📚 Topics
 | Topic                     | Count | Percentage |
 |---------------------------|-------|------------|
-| Arrays                    | 13    | 22.81%     |
-| Strings                   | 8     | 14.04%     |
-| Sorting                   | 7     | 12.28%     |
-| Searching                 | 8     | 14.04%     |
-| Matrix                    | 5     | 8.77%      |
-| Hashing                   | 9     | 15.79%     |
-| Two Pointer Technique     | 7     | 12.28%     |
-| Sliding Window            | 4     | 7.02%      |
-| Divide and Conquer        | 3     | 5.26%      |
+| Arrays                    | 18    | 18.3%      |
+| Strings                   | 11    | 11.3%      |
+| Sorting                   | 10    | 9.9%       |
+| Searching                 | 11    | 11.3%      |
+| Matrix                    | 7     | 7.0%       |
+| Hashing                   | 13    | 12.7%      |
+| Two Pointer Technique     | 10    | 9.9%       |
+| Linked Lists              | 10    | 9.9%       |
+| Prefix Sum                | 6     | 5.6%       |
 
-![Topics Pie Chart](path-to-topics-pie-chart.png)
+![Topics](./Topics.png)
 
 ---
 
