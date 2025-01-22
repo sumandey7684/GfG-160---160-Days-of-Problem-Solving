@@ -85,6 +85,16 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 59      | 59      | Trapping Rain Water                       | Java      | Hard       | Two Pointer Technique |
 | 60      | 60      | Container With Most Water                 | Java      | Medium     | Two Pointer Technique |
 | 61      | 61      | Equilibrium Point                         | Java      | Easy       | Prefix Sum |
+| 62      | 62      | Longest Subarray with Sum                 | Java      | Medium     | Prefix Sum |
+| 63      | 63      | Largest subarray of 0's and 1'            | Java      | Easy       | Prefix Sum |
+| 64      | 64      | Product array puzzle                      | Java      | Easy       | Prefix Sum |
+| 65      | 65      | Reverse a linked list                     | Java      | Easy       | Linked List|
+| 66      | 66      | Rotate a Linked List                      | Java      | Medium     | Linked List|
+| 67      | 67      | Merge two sorted linked lists             | Java      | Medium     | Linked List|
+| 68      | 68      | Linked List Group Reverse                 | Java      | Hard       | Linked List|
+| 69      | 69      | Add Number Linked Lists                   | Java      | Medium     | Linked List|
+
+
 
 ---
 
@@ -100,6 +110,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 - **Hashing**
 - **Two Pointer Technique**
 - **Prefix Sum**
+- **Linked List**
 - **Pattern Searching**
 - **Data Structures**
 - **Algorithms**
