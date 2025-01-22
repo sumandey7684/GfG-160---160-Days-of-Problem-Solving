@@ -14,6 +14,10 @@ This repository tracks and analyzes my daily practice of GeeksforGeeks Problems 
 | Hard       | 2     | 3.51%      |
 | Basic      | 1     | 1.75%      |
 
+![Difficulty Levels Pie Chart](path-to-difficulty-pie-chart.png)
+
+---
+
 ### 💻Languages Used
 | Language   | Count | Percentage |
 |------------|-------|------------|
@@ -21,6 +25,10 @@ This repository tracks and analyzes my daily practice of GeeksforGeeks Problems 
 | C          | 6     | 10.53%     |
 | Python     | 7     | 12.28%     |
 | C++        | 5     | 8.77%      |
+
+![Languages Used Pie Chart](path-to-languages-pie-chart.png)
+
+---
 
 ### 📚Topics
 | Topic                     | Count | Percentage |
@@ -32,12 +40,18 @@ This repository tracks and analyzes my daily practice of GeeksforGeeks Problems 
 | Matrix                    | 5     | 8.77%      |
 | Hashing                   | 9     | 15.79%     |
 | Two Pointer Technique     | 7     | 12.28%     |
+| Sliding Window            | 4     | 7.02%      |
+| Divide and Conquer        | 3     | 5.26%      |
+
+![Topics Pie Chart](path-to-topics-pie-chart.png)
 
 ---
+
 ## 📈 Insights
 - 🔥 I plan to solve more Hard problems to further strengthen my problem-solving abilities.
 - 🌐 I aim to diversify my language usage to enhance my proficiency in **Java**, **Python**, **C**, and **C++**.
 - 🧠 I will explore additional advanced topics to broaden my knowledge and skill set.
 
 ---
+
 **Happy Coding!** 🚀
