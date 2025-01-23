@@ -93,6 +93,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 67      | 67      | Merge two sorted linked lists             | Java      | Medium     | Linked List|
 | 68      | 68      | Linked List Group Reverse                 | Java      | Hard       | Linked List|
 | 69      | 69      | Add Number Linked Lists                   | Java      | Medium     | Linked List|
+| 70      | 70      | Clone List with Next and Random           | Java      | Hard       | Linked List|
 
 
 
