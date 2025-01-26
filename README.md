@@ -95,7 +95,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 69      | 69      | Add Number Linked Lists                   | Java      | Medium     | Linked List|
 | 70      | 70      | Clone List with Next and Random           | Java      | Hard       | Linked List|
 | 71      | 71      | Detect Loop in Linked List                | Java      | Medium     | Linked List|
-
+| 72      | 72      | Find the First Node of Loop in Linked List| Java      | Easy       | Linked List|
+| 73      | 73      | Remove Loop in Linked List                | Java      | Medium     | Linked List|
 
 
 
