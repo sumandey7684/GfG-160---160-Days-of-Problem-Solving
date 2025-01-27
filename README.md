@@ -97,7 +97,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 71      | 71      | Detect Loop in Linked List                | Java      | Medium     | Linked List|
 | 72      | 72      | Find the First Node of Loop in Linked List| Java      | Easy       | Linked List|
 | 73      | 73      | Remove Loop in Linked List                | Java      | Medium     | Linked List|
-
+| 74      | 74      | LRU Cache                                 | Java      | Hard       | Linked List|
 
 
 ---
