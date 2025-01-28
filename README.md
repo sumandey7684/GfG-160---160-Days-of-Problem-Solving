@@ -98,6 +98,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 72      | 72      | Find the First Node of Loop in Linked List| Java      | Easy       | Linked List|
 | 73      | 73      | Remove Loop in Linked List                | Java      | Medium     | Linked List|
 | 74      | 74      | LRU Cache                                 | Java      | Hard       | Linked List|
+| 75      | 75      | Permutation of a String                   | Java      | Medium     | Recursion & Backtracing|
+
 
 
 ---
@@ -115,6 +117,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 - **Two Pointer Technique**
 - **Prefix Sum**
 - **Linked List**
+- **Recursion & Backtracing**
 - **Pattern Searching**
 - **Data Structures**
 - **Algorithms**
