@@ -99,6 +99,15 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 73      | 73      | Remove Loop in Linked List                | Java      | Medium     | Linked List|
 | 74      | 74      | LRU Cache                                 | Java      | Hard       | Linked List|
 | 75      | 75      | Permutation of a String                   | Java      | Medium     | Recursion & Backtracing|
+| 76      | 76      | Implement Pow                             | Java      | Medium     | Recursion & Backtracing|
+| 77      | 77      | N-Queen Problem                           | Java      | Hard       | Recursion & Backtracing|
+| 78      | 78      | Solve the Sudoku                          | Java      | Hard       | Recursion & Backtracing|
+| 79      | 79      | Word Search                               | Java      | Medium     | Recursion & Backtracing|
+| 80      | 80      | Level Order Traversal                     | Java      | Easy       | Tree|
+| 81      | 81      | Height of Binary Tree                     | Java      | Easy       | Tree|
+| 82      | 82      | Diameter of a Binary Tree                 | Java      | Medium     | Tree|
+| 83      | 83      | Mirror Tree                               | Java      | Easy       | Tree|
+
 
 
 
@@ -117,6 +126,7 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 - **Two Pointer Technique**
 - **Prefix Sum**
 - **Linked List**
+- **Tree**
 - **Recursion & Backtracing**
 - **Pattern Searching**
 - **Data Structures**
