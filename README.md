@@ -107,7 +107,8 @@ This repository is my step-by-step coding journey through the **GfG 160 Days Cha
 | 81      | 81      | Height of Binary Tree                     | Java      | Easy       | Tree|
 | 82      | 82      | Diameter of a Binary Tree                 | Java      | Medium     | Tree|
 | 83      | 83      | Mirror Tree                               | Java      | Easy       | Tree|
-
+| 84      | 83      | Construct Tree from Inorder and Preorder  | Java      | Medium     | Tree|
+| 85      | 84      | Inorder Traversal                         | Java      | Easy       | Tree|
 
 
 
